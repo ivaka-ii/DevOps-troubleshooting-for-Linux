@@ -34,3 +34,7 @@ Settings for eth0:
      Wake-on: d
      Current message level: 0x000000ff (255)
      Link detected: yes
+	 
+If Link detected: yes - the link is physically connected to the network.
+if it is no - we should physically inspect dev1's network connection
+
